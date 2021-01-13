@@ -1,0 +1,13 @@
+.sampul{
+    width: 50px;
+}
+
+.table > tbody > tr > *{
+/* jadi apapun yang ada di dalam tr akan di sesuaikan dengan format css */
+    vertical-align: middle;
+}
+.center{
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+}
